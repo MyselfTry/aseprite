@@ -9,7 +9,7 @@ on:
         default: 'main'
 env:
   REPO: 'aseprite/aseprite'
-  BUILD_PATH: 'D:/aseprite'
+  BUILD_PATH: 'D:/a/aseprite/aseprite'
   UPLOAD_RELEASE: true
 jobs:
   build:
